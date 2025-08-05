@@ -1,15 +1,19 @@
+/* Set background to beige */
 body {
-  background-color: #fdf6e3; /* beige */
+  background-color: #fdf6e3;
 }
 
+/* Set headings color to dark blue */
 h1, h2, h3, h4, h5, h6 {
-  color: #003366; /* dark blue */
+  color: #003366;
 }
 
+/* Links */
 a {
   color: #003366;
 }
 
+/* Navigation links */
 nav a {
   color: #003366;
 }
@@ -17,4 +21,3 @@ nav a {
 nav a:hover {
   color: #00509e;
 }
-
