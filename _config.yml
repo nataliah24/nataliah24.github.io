@@ -2,12 +2,14 @@ title: Natalia Hernandez Berrios
 logo: Natalia Hernandez_Headshot_2022.jpg
 description: Research & Policy Analyst
 #show_downloads: true
+
 remote_theme: just-the-docs/just-the-docs
+
 include:
   - assets/css
   
 sass:
-sass_dir: assets/css
+  sass_dir: assets/css
   
 just_the_docs:
   nav_order:
