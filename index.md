@@ -4,9 +4,9 @@ layout: default
 
 <link rel="stylesheet" href="assets/css/style.css">
 
----
+
 title: Natalia Hernandez Berrios
----
+
 
 **Welcome to my website!**
 
