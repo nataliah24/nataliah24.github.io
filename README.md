@@ -8,10 +8,12 @@
 ### Project 2
 - Description
 - [Telling Stories with Data Projects](https://nataliah24.github.io/Hernandez-Berrios-Portfolio/)
-- 
+
+  
 ### Project 3
 - Description
 - [ACA Marketplace Enrollment by Demographics]
+  
 # Education
 M.S Public Policy and Management
 Carngeie Mellon University
