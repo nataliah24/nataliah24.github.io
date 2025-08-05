@@ -1,10 +1,17 @@
 
 
-##Projects
-###Project 1
+## Projects
+### Project 1
 - Description
-- Links
+- [Advocating for Immigration Reform in the US](https://carnegiemellon.shorthandstories.com/undocumented-realities-advocating-for-immigration-reform-in-the-u-s/index.html)
 
+### Project 2
+- Description
+- [Telling Stories with Data Projects](https://nataliah24.github.io/Hernandez-Berrios-Portfolio/)
+- 
+### Project 3
+- Description
+- [ACA Marketplace Enrollment by Demographics]
 # Education
 M.S Public Policy and Management
 Carngeie Mellon University
