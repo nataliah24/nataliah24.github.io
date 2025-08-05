@@ -5,3 +5,7 @@ description: Research & Policy Analyst
 theme: jekyll-theme-minimal
 include:
   - assets/css
+  
+sass:
+sass_dir: assets/css
+  
