@@ -3,3 +3,5 @@ logo: Natalia Hernandez_Headshot_2022.jpg
 description: Research & Policy Analyst
 #show_downloads: true
 theme: jekyll-theme-minimal
+include:
+  - assets/css
