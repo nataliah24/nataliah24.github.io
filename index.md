@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Home
+nav_order: 1
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
