@@ -1,4 +1,4 @@
-
+# Natalia Hernandez Berrios
 
 ## Projects
 ### Project 1
@@ -14,7 +14,7 @@
 - Description
 - [ACA Marketplace Enrollment by Demographics]
   
-# Education
+## Education
 M.S Public Policy and Management
 Carngeie Mellon University
 
@@ -22,6 +22,6 @@ B.A Econonics
 B.A Global Studies
 Randolph College
 
-# Work History
+## Work History
 - work place 1
 - work place 2
