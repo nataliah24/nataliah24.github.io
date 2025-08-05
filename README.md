@@ -1,4 +1,4 @@
-# Natalia Hernandez Berrios
+
 
 ## Projects
 ### Project 1
